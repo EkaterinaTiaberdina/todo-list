@@ -1,0 +1,48 @@
+body {
+  background-color: #e4e9ff;
+}
+.App {
+  background-color: white;
+  min-height: 80vh;
+  width: 400px;
+  margin:  20px auto;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.crossed {
+  text-decoration: line-through 2px #af173d;
+  background-color: #f0f0f0;
+}
+ul, li {
+  list-style-type: none;
+  padding: 5px;
+  margin: 0;
+  font-family: 'Lora', serif;
+}
+h1 {
+  font-family: 'Lora', serif;
+}
+.btn {
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: white;
+  font-size: 16px;
+  font-family: 'Lora', serif;
+}
+.add {
+  margin-top: 5px;
+  background: #3f964f;
+}
+.delete {
+  background: #af173d;
+  margin-bottom: 5px;
+}
+input {
+  flex: 1;
+  padding: 8px;
+  margin: 10px;
+  font-family: 'Lora', serif;
+}
