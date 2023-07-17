@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# To do list - Список дел
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Приложение позволяет записать список необходимых дел.
 
 ## Available Scripts
 
